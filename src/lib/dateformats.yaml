@@ -1,0 +1,873 @@
+-
+    ISO 3166 Country Code: ALB
+    ISO639-2 Country Code: AL
+    Country: Albania
+    ISO 3166 Country Code: sqi
+    ISO639-2 Lang: sq
+    Language: Albanian
+    Date Format: yyyy-MM-dd
+-
+    ISO 3166 Country Code: ARE
+    ISO639-2 Country Code: AE
+    Country: United Arab Emirates
+    ISO 3166 Country Code: ara
+    ISO639-2 Lang: ar
+    Language: Arabic
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: ARG
+    ISO639-2 Country Code: AR
+    Country: Argentina
+    ISO 3166 Country Code: spa
+    ISO639-2 Lang: es
+    Language: Spanish
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: AUS
+    ISO639-2 Country Code: AU
+    Country: Australia
+    ISO 3166 Country Code: eng
+    ISO639-2 Lang: en
+    Language: English
+    Date Format: d/MM/yyyy
+-
+    ISO 3166 Country Code: AUT
+    ISO639-2 Country Code: AT
+    Country: Austria
+    ISO 3166 Country Code: deu
+    ISO639-2 Lang: de
+    Language: German
+    Date Format: dd.MM.yyyy
+-
+    ISO 3166 Country Code: BEL
+    ISO639-2 Country Code: BE
+    Country: Belgium
+    ISO 3166 Country Code: fra
+    ISO639-2 Lang: fr
+    Language: French
+    Date Format: d/MM/yyyy
+-
+    ISO 3166 Country Code: BEL
+    ISO639-2 Country Code: BE
+    Country: Belgium
+    ISO 3166 Country Code: nld
+    ISO639-2 Lang: nl
+    Language: Dutch
+    Date Format: d/MM/yyyy
+-
+    ISO 3166 Country Code: BGR
+    ISO639-2 Country Code: BG
+    Country: Bulgaria
+    ISO 3166 Country Code: bul
+    ISO639-2 Lang: bg
+    Language: Bulgarian
+    Date Format: yyyy-M-d
+-
+    ISO 3166 Country Code: BHR
+    ISO639-2 Country Code: BH
+    Country: Bahrain
+    ISO 3166 Country Code: ara
+    ISO639-2 Lang: ar
+    Language: Arabic
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: BIH
+    ISO639-2 Country Code: BA
+    Country: Bosnia and Herzegovina
+    ISO 3166 Country Code: srp
+    ISO639-2 Lang: sr
+    Language: Serbian
+    Date Format: yyyy-MM-dd
+-
+    ISO 3166 Country Code: BLR
+    ISO639-2 Country Code: BY
+    Country: Belarus
+    ISO 3166 Country Code: bel
+    ISO639-2 Lang: be
+    Language: Belarusian
+    Date Format: d.M.yyyy
+-
+    ISO 3166 Country Code: BOL
+    ISO639-2 Country Code: BO
+    Country: Bolivia
+    ISO 3166 Country Code: spa
+    ISO639-2 Lang: es
+    Language: Spanish
+    Date Format: dd-MM-yyyy
+-
+    ISO 3166 Country Code: BRA
+    ISO639-2 Country Code: BR
+    Country: Brazil
+    ISO 3166 Country Code: por
+    ISO639-2 Lang: pt
+    Language: Portuguese
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: CAN
+    ISO639-2 Country Code: CA
+    Country: Canada
+    ISO 3166 Country Code: fra
+    ISO639-2 Lang: fr
+    Language: French
+    Date Format: yyyy-MM-dd
+-
+    ISO 3166 Country Code: CAN
+    ISO639-2 Country Code: CA
+    Country: Canada
+    ISO 3166 Country Code: eng
+    ISO639-2 Lang: en
+    Language: English
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: CHE
+    ISO639-2 Country Code: CH
+    Country: Switzerland
+    ISO 3166 Country Code: deu
+    ISO639-2 Lang: de
+    Language: German
+    Date Format: dd.MM.yyyy
+-
+    ISO 3166 Country Code: CHE
+    ISO639-2 Country Code: CH
+    Country: Switzerland
+    ISO 3166 Country Code: fra
+    ISO639-2 Lang: fr
+    Language: French
+    Date Format: dd.MM.yyyy
+-
+    ISO 3166 Country Code: CHE
+    ISO639-2 Country Code: CH
+    Country: Switzerland
+    ISO 3166 Country Code: ita
+    ISO639-2 Lang: it
+    Language: Italian
+    Date Format: dd.MM.yyyy
+-
+    ISO 3166 Country Code: CHL
+    ISO639-2 Country Code: CL
+    Country: Chile
+    ISO 3166 Country Code: spa
+    ISO639-2 Lang: es
+    Language: Spanish
+    Date Format: dd-MM-yyyy
+-
+    ISO 3166 Country Code: CHN
+    ISO639-2 Country Code: CN
+    Country: China
+    ISO 3166 Country Code: zho
+    ISO639-2 Lang: zh
+    Language: Chinese
+    Date Format: yyyy-M-d
+-
+    ISO 3166 Country Code: COL
+    ISO639-2 Country Code: CO
+    Country: Colombia
+    ISO 3166 Country Code: spa
+    ISO639-2 Lang: es
+    Language: Spanish
+    Date Format: d/MM/yyyy
+-
+    ISO 3166 Country Code: CRI
+    ISO639-2 Country Code: CR
+    Country: Costa Rica
+    ISO 3166 Country Code: spa
+    ISO6392 Lang: es
+    Language: Spanish
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: CYP
+    ISO639-2 Country Code: CY
+    Country: Cyprus
+    ISO 3166 Country Code: ell
+    ISO639-2 Lang: el
+    Language: Greek
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: CZE
+    ISO639-2 Country Code: CZ
+    Country: Czech Republic
+    ISO 3166 Country Code: ces
+    ISO639-2 Lang: cs
+    Language: Czech
+    Date Format: d.M.yyyy
+-
+    ISO 3166 Country Code: DEU
+    ISO639-2 Country Code: DE
+    Country: Germany
+    ISO 3166 Country Code: deu
+    ISO639-2 Lang: de
+    Language: German
+    Date Format: dd.MM.yyyy
+-
+    ISO 3166 Country Code: DNK
+    ISO639-2 Country Code: DK
+    Country: Denmark
+    ISO 3166 Country Code: dan
+    ISO639-2 Lang: da
+    Language: Danish
+    Date Format: dd-MM-yyyy
+-
+    ISO 3166 Country Code: DOM
+    ISO639-2 Country Code: DO
+    Country: Dominican Republic
+    ISO 3166 Country Code: spa
+    ISO639-2 Lang: es
+    Language: Spanish
+    Date Format: MM/dd/yyyy
+-
+    ISO 3166 Country Code: DZA
+    ISO639-2 Country Code: DZ
+    Country: Algeria
+    ISO 3166 Country Code: ara
+    ISO639-2 Lang: ar
+    Language: Arabic
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: ECU
+    ISO639-2 Country Code: EC
+    Country: Ecuador
+    ISO 3166 Country Code: spa
+    ISO639-2 Lang: es
+    Language: Spanish
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: EGY
+    ISO639-2 Country Code: EG
+    Country: Egypt
+    ISO 3166 Country Code: ara
+    ISO639-2 Lang: ar
+    Language: Arabic
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: ESP
+    ISO639-2 Country Code: ES
+    Country: Spain
+    ISO 3166 Country Code: spa
+    ISO639-2 Lang: es
+    Language: Spanish
+    Date Format: d/MM/yyyy
+-
+    ISO 3166 Country Code: ESP
+    ISO639-2 Country Code: ES
+    Country: Spain
+    ISO 3166 Country Code: cat
+    ISO639-2 Lang: ca
+    Language: Catalan
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: EST
+    ISO639-2 Country Code: EE
+    Country: Estonia
+    ISO 3166 Country Code: est
+    ISO639-2 Lang: et
+    Language: Estonian
+    Date Format: d.MM.yyyy
+-
+    ISO 3166 Country Code: FIN
+    ISO639-2 Country Code: FI
+    Country: Finland
+    ISO 3166 Country Code: fin
+    ISO639-2 Lang: fi
+    Language: Finnish
+    Date Format: d.M.yyyy
+-
+    ISO 3166 Country Code: FRA
+    ISO639-2 Country Code: FR
+    Country: France
+    ISO 3166 Country Code: fra
+    ISO639-2 Lang: fr
+    Language: French
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: GBR
+    ISO639-2 Country Code: GB
+    Country: United Kingdom
+    ISO 3166 Country Code: eng
+    ISO639-2 Lang: en
+    Language: English
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: GRC
+    ISO639-2 Country Code: GR
+    Country: Greece
+    ISO 3166 Country Code: ell
+    ISO639-2 Lang: el
+    Language: Greek
+    Date Format: d/M/yyyy
+-
+    ISO 3166 Country Code: GTM
+    ISO639-2 Country Code: GT
+    Country: Guatemala
+    ISO 3166 Country Code: spa
+    ISO639-2 Lang: es
+    Language: Spanish
+    Date Format: d/MM/yyyy
+-
+    ISO 3166 Country Code: HKG
+    ISO639-2 Country Code: HK
+    Country: Hong Kong
+    ISO 3166 Country Code: zho
+    ISO639-2 Lang: zh
+    Language: Chinese
+    Date Format: yyyy年M月d日
+-
+    ISO 3166 Country Code: HND
+    ISO639-2 Country Code: HN
+    Country: Honduras
+    ISO 3166 Country Code: spa
+    ISO639-2 Lang: es
+    Language: Spanish
+    Date Format: MM-dd-yyyy
+-
+    ISO 3166 Country Code: HRV
+    ISO639-2 Country Code: HR
+    Country: Croatia
+    ISO 3166 Country Code: hrv
+    ISO639-2 Lang: hr
+    Language: Croatian
+    Date Format: dd.MM.yyyy.
+-
+    ISO 3166 Country Code: HUN
+    ISO639-2 Country Code: HU
+    Country: Hungary
+    ISO 3166 Country Code: hun
+    ISO639-2 Lang: hu
+    Language: Hungarian
+    Date Format: yyyy.MM.dd.
+-
+    ISO 3166 Country Code: IDN
+    ISO639-2 Country Code: ID
+    Country: Indonesia
+    ISO 3166 Country Code: ind
+    ISO639-2 Lang: in
+    Language: Indonesian
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: IND
+    ISO639-2 Country Code: IN
+    Country: India
+    ISO 3166 Country Code: hin
+    ISO639-2 Lang: hi
+    Language: Hindi
+    Date Format: ३/६/१२
+-
+    ISO 3166 Country Code: IND
+    ISO639-2 Country Code: IN
+    Country: India
+    ISO 3166 Country Code: eng
+    ISO639-2 Lang: en
+    Language: English
+    Date Format: d/M/yyyy
+-
+    ISO 3166 Country Code: IRL
+    ISO639-2 Country Code: IE
+    Country: Ireland
+    ISO 3166 Country Code: gle
+    ISO639-2 Lang: ga
+    Language: Irish
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: IRL
+    ISO639-2 Country Code: IE
+    Country: Ireland
+    ISO 3166 Country Code: eng
+    ISO639-2 Lang: en
+    Language: English
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: IRQ
+    ISO639-2 Country Code: IQ
+    Country: Iraq
+    ISO 3166 Country Code: ara
+    ISO639-2 Lang: ar
+    Language: Arabic
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: ISL
+    ISO639-2 Country Code: IS
+    Country: Iceland
+    ISO 3166 Country Code: isl
+    ISO639-2 Lang: is
+    Language: Icelandic
+    Date Format: d.M.yyyy
+-
+    ISO 3166 Country Code: ISR
+    ISO639-2 Country Code: IL
+    Country: Israel
+    ISO 3166 Country Code: heb
+    ISO639-2 Lang: iw
+    Language: Hebrew
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: ITA
+    ISO639-2 Country Code: IT
+    Country: Italy
+    ISO 3166 Country Code: ita
+    ISO639-2 Lang: it
+    Language: Italian
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: JOR
+    ISO639-2 Country Code: JO
+    Country: Jordan
+    ISO 3166 Country Code: ara
+    ISO639-2 Lang: ar
+    Language: Arabic
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: JPN
+    ISO639-2 Country Code: JP
+    Country: Japan
+    ISO 3166 Country Code: jpn
+    ISO639-2 Lang: ja
+    Language: Japanese
+    Date Format: yyyy/MM/dd
+-
+    ISO 3166 Country Code: JPN
+    ISO639-2 Country Code: JP
+    Country: Japan
+    ISO 3166 Country Code: jpn
+    ISO639-2 Lang: ja
+    Language: Japanese
+    Date Format: H24.MM.dd
+-
+    ISO 3166 Country Code: KOR
+    ISO639-2 Country Code: KR
+    Country: South Korea
+    ISO 3166 Country Code: kor
+    ISO639-2 Lang: ko
+    Language: Korean
+    Date Format: yyyy. M. d
+-
+    ISO 3166 Country Code: KWT
+    ISO639-2 Country Code: KW
+    Country: Kuwait
+    ISO 3166 Country Code: ara
+    ISO639-2 Lang: ar
+    Language: Arabic
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: LBN
+    ISO639-2 Country Code: LB
+    Country: Lebanon
+    ISO 3166 Country Code: ara
+    ISO639-2 Lang: ar
+    Language: Arabic
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: LBY
+    ISO639-2 Country Code: LY
+    Country: Libya
+    ISO 3166 Country Code: ara
+    ISO639-2 Lang: ar
+    Language: Arabic
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: LTU
+    ISO639-2 Country Code: LT
+    Country: Lithuania
+    ISO 3166 Country Code: lit
+    ISO639-2 Lang: lt
+    Language: Lithuanian
+    Date Format: yyyy.M.d
+-
+    ISO 3166 Country Code: LUX
+    ISO639-2 Country Code: LU
+    Country: Luxembourg
+    ISO 3166 Country Code: fra
+    ISO639-2 Lang: fr
+    Language: French
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: LUX
+    ISO639-2 Country Code: LU
+    Country: Luxembourg
+    ISO 3166 Country Code: deu
+    ISO639-2 Lang: de
+    Language: German
+    Date Format: dd.MM.yyyy
+-
+    ISO 3166 Country Code: LVA
+    ISO639-2 Country Code: LV
+    Country: Latvia
+    ISO 3166 Country Code: lav
+    ISO639-2 Lang: lv
+    Language: Latvian
+    Date Format: yyyy.d.M
+-
+    ISO 3166 Country Code: MAR
+    ISO639-2 Country Code: MA
+    Country: Morocco
+    ISO 3166 Country Code: ara
+    ISO639-2 Lang: ar
+    Language: Arabic
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: MEX
+    ISO639-2 Country Code: MX
+    Country: Mexico
+    ISO 3166 Country Code: spa
+    ISO639-2 Lang: es
+    Language: Spanish
+    Date Format: d/MM/yyyy
+-
+    ISO 3166 Country Code: MKD
+    ISO639-2 Country Code: MK
+    Country: Macedonia
+    ISO 3166 Country Code: mkd
+    ISO639-2 Lang: mk
+    Language: Macedonian
+    Date Format: d.M.yyyy
+-
+    ISO 3166 Country Code: MLT
+    ISO639-2 Country Code: MT
+    Country: Malta
+    ISO 3166 Country Code: eng
+    ISO639-2 Lang: en
+    Language: English
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: MLT
+    ISO639-2 Country Code: MT
+    Country: Malta
+    ISO 3166 Country Code: mlt
+    ISO639-2 Lang: mt
+    Language: Maltese
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: MNE
+    ISO639-2 Country Code: ME
+    Country: Montenegro
+    ISO 3166 Country Code: srp
+    ISO639-2 Lang: sr
+    Language: Serbian
+    Date Format: d.M.yyyy.
+-
+    ISO 3166 Country Code: MYS
+    ISO639-2 Country Code: MY
+    Country: Malaysia
+    ISO 3166 Country Code: msa
+    ISO639-2 Lang: ms
+    Language: Malay
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: NIC
+    ISO639-2 Country Code: NI
+    Country: Nicaragua
+    ISO 3166 Country Code: spa
+    ISO639-2 Lang: es
+    Language: Spanish
+    Date Format: MM-dd-yyyy
+-
+    ISO 3166 Country Code: NLD
+    ISO639-2 Country Code: NL
+    Country: Netherlands
+    ISO 3166 Country Code: nld
+    ISO639-2 Lang: nl
+    Language: Dutch
+    Date Format: d-M-yyyy
+-
+    ISO 3166 Country Code: NOR
+    ISO639-2 Country Code: NO
+    Country: Norway
+    ISO 3166 Country Code: nor
+    ISO639-2 Lang: no
+    Language: Norwegian
+    Date Format: dd.MM.yyyy
+-
+    ISO 3166 Country Code: NOR
+    ISO639-2 Country Code: NO
+    Country: Norway
+    ISO 3166 Country Code: nor
+    ISO639-2 Lang: no
+    Language: Norwegian
+    Date Format: dd.MM.yyyy
+-
+    ISO 3166 Country Code: NZL
+    ISO639-2 Country Code: NZ
+    Country: New Zealand
+    ISO 3166 Country Code: eng
+    ISO639-2 Lang: en
+    Language: English
+    Date Format: d/MM/yyyy
+-
+    ISO 3166 Country Code: OMN
+    ISO639-2 Country Code: OM
+    Country: Oman
+    ISO 3166 Country Code: ara
+    ISO639-2 Lang: ar
+    Language: Arabic
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: PAN
+    ISO639-2 Country Code: PA
+    Country: Panama
+    ISO 3166 Country Code: spa
+    ISO639-2 Lang: es
+    Language: Spanish
+    Date Format: MM/dd/yyyy
+-
+    ISO 3166 Country Code: PER
+    ISO639-2 Country Code: PE
+    Country: Peru
+    ISO 3166 Country Code: spa
+    ISO639-2 Lang: es
+    Language: Spanish
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: PHL
+    ISO639-2 Country Code: PH
+    Country: Philippines
+    ISO 3166 Country Code: eng
+    ISO639-2 Lang: en
+    Language: English
+    Date Format: M/d/yyyy
+-
+    ISO 3166 Country Code: POL
+    ISO639-2 Country Code: PL
+    Country: Poland
+    ISO 3166 Country Code: pol
+    ISO639-2 Lang: pl
+    Language: Polish
+    Date Format: dd.MM.yyyy
+-
+    ISO 3166 Country Code: PRI
+    ISO639-2 Country Code: PR
+    Country: Puerto Rico
+    ISO 3166 Country Code: spa
+    ISO639-2 Lang: es
+    Language: Spanish
+    Date Format: MM-dd-yyyy
+-
+    ISO 3166 Country Code: PRT
+    ISO639-2 Country Code: PT
+    Country: Portugal
+    ISO 3166 Country Code: por
+    ISO639-2 Lang: pt
+    Language: Portuguese
+    Date Format: dd-MM-yyyy
+-
+    ISO 3166 Country Code: PRY
+    ISO639-2 Country Code: PY
+    Country: Paraguay
+    ISO 3166 Country Code: spa
+    ISO639-2 Lang: es
+    Language: Spanish
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: QAT
+    ISO639-2 Country Code: QA
+    Country: Qatar
+    ISO 3166 Country Code: ara
+    ISO639-2 Lang: ar
+    Language: Arabic
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: ROU
+    ISO639-2 Country Code: RO
+    Country: Romania
+    ISO 3166 Country Code: ron
+    ISO639-2 Lang: ro
+    Language: Romanian
+    Date Format: dd.MM.yyyy
+-
+    ISO 3166 Country Code: RUS
+    ISO639-2 Country Code: RU
+    Country: Russia
+    ISO 3166 Country Code: rus
+    ISO639-2 Lang: ru
+    Language: Russian
+    Date Format: dd.MM.yyyy
+-
+    ISO 3166 Country Code: SAU
+    ISO639-2 Country Code: SA
+    Country: Saudi Arabia
+    ISO 3166 Country Code: ara
+    ISO639-2 Lang: ar
+    Language: Arabic
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: SCG
+    ISO639-2 Country Code: CS
+    Country: Serbia and Montenegro
+    ISO 3166 Country Code: srp
+    ISO639-2 Lang: sr
+    Language: Serbian
+    Date Format: d.M.yyyy.
+-
+    ISO 3166 Country Code: SDN
+    ISO639-2 Country Code: SD
+    Country: Sudan
+    ISO 3166 Country Code: ara
+    ISO639-2 Lang: ar
+    Language: Arabic
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: SGP
+    ISO639-2 Country Code: SG
+    Country: Singapore
+    ISO 3166 Country Code: zho
+    ISO639-2 Lang: zh
+    Language: Chinese
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: SGP
+    ISO639-2 Country Code: SG
+    Country: Singapore
+    ISO 3166 Country Code: eng
+    ISO639-2 Lang: en
+    Language: English
+    Date Format: M/d/yyyy
+-
+    ISO 3166 Country Code: SLV
+    ISO639-2 Country Code: SV
+    Country: El Salvador
+    ISO 3166 Country Code: spa
+    ISO639-2 Lang: es
+    Language: Spanish
+    Date Format: MM-dd-yyyy
+-
+    ISO 3166 Country Code: SRB
+    ISO639-2 Country Code: RS
+    Country: Serbia
+    ISO 3166 Country Code: srp
+    ISO639-2 Lang: sr
+    Language: Serbian
+    Date Format: d.M.yyyy.
+-
+    ISO 3166 Country Code: SVK
+    ISO639-2 Country Code: SK
+    Country: Slovakia
+    ISO 3166 Country Code: slk
+    ISO639-2 Lang: sk
+    Language: Slovak
+    Date Format: d.M.yyyy
+-
+    ISO 3166 Country Code: SVN
+    ISO639-2 Country Code: SI
+    Country: Slovenia
+    ISO 3166 Country Code: slv
+    ISO639-2 Lang: sl
+    Language: Slovenian
+    Date Format: d.M.yyyy
+-
+    ISO 3166 Country Code: SWE
+    ISO639-2 Country Code: SE
+    Country: Sweden
+    ISO 3166 Country Code: swe
+    ISO639-2 Lang: sv
+    Language: Swedish
+    Date Format: yyyy-MM-dd
+-
+    ISO 3166 Country Code: SYR
+    ISO639-2 Country Code: SY
+    Country: Syria
+    ISO 3166 Country Code: ara
+    ISO639-2 Lang: ar
+    Language: Arabic
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: THA
+    ISO639-2 Country Code: TH
+    Country: Thailand
+    ISO 3166 Country Code: tha
+    ISO639-2 Lang: th
+    Language: Thai
+    Date Format: d/M/2555
+-
+    ISO 3166 Country Code: THA
+    ISO639-2 Country Code: TH
+    Country: Thailand
+    ISO 3166 Country Code: tha
+    ISO639-2 Lang: th
+    Language: Thai
+    Date Format: ๓/๖/๒๕๕๕
+-
+    ISO 3166 Country Code: TUN
+    ISO639-2 Country Code: TN
+    Country: Tunisia
+    ISO 3166 Country Code: ara
+    ISO639-2 Lang: ar
+    Language: Arabic
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: TUR
+    ISO639-2 Country Code: TR
+    Country: Turkey
+    ISO 3166 Country Code: tur
+    ISO639-2 Lang: tr
+    Language: Turkish
+    Date Format: dd.MM.yyyy
+-
+    ISO 3166 Country Code: TWN
+    ISO639-2 Country Code: TW
+    Country: Taiwan
+    ISO 3166 Country Code: zho
+    ISO639-2 Lang: zh
+    Language: Chinese
+    Date Format: yyyy/M/d
+-
+    ISO 3166 Country Code: UKR
+    ISO639-2 Country Code: UA
+    Country: Ukraine
+    ISO 3166 Country Code: ukr
+    ISO639-2 Lang: uk
+    Language: Ukrainian
+    Date Format: dd.MM.yyyy
+-
+    ISO 3166 Country Code: URY
+    ISO639-2 Country Code: UY
+    Country: Uruguay
+    ISO 3166 Country Code: spa
+    ISO639-2 Lang: es
+    Language: Spanish
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: USA
+    ISO639-2 Country Code: US
+    Country: United States
+    ISO 3166 Country Code: eng
+    ISO639-2 Lang: en
+    Language: English
+    Date Format: M/d/yyyy
+-
+    ISO 3166 Country Code: USA
+    ISO639-2 Country Code: US
+    Country: United States
+    ISO 3166 Country Code: spa
+    ISO639-2 Lang: es
+    Language: Spanish
+    Date Format: M/d/yyyy
+-
+    ISO 3166 Country Code: VEN
+    ISO639-2 Country Code: VE
+    Country: Venezuela
+    ISO 3166 Country Code: spa
+    ISO639-2 Lang: es
+    Language: Spanish
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: VNM
+    ISO639-2 Country Code: VN
+    Country: Vietnam
+    ISO 3166 Country Code: vie
+    ISO639-2 Lang: vi
+    Language: Vietnamese
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: YEM
+    ISO639-2 Country Code: YE
+    Country: Yemen
+    ISO 3166 Country Code: ara
+    ISO639-2 Lang: ar
+    Language: Arabic
+    Date Format: dd/MM/yyyy
+-
+    ISO 3166 Country Code: ZAF
+    ISO639-2 Country Code: ZA
+    Country: South Africa
+    ISO 3166 Country Code: eng
+    ISO639-2 Lang: en
+    Language: English
+    Date Format: yyyy/MM/dd
+
